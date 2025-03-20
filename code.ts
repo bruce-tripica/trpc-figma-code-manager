@@ -12,30 +12,50 @@ figma.showUI(__html__);
 // Trads
 // figma.variables.getLocalVariablesAsync().then(x => console.log(x.map(v => [v.name, v.codeSyntax, v])));
 
-type VisitResult = {name: string; id: string; css?: Record<string, string>, children: VisitResult[]};
+type VisitResult = {
+  name: string;
+  id: string;
+  children: VisitResult[];
+  css?: Record<string, string>;
+  instanceOf?: { name: string; id: string; key: string };
+};
 
-const visit = async ({type, id, name, ...node}: SceneNode): Promise<VisitResult | undefined> => {
-  const children = 'children' in node ? (await Promise.all(node.children.map(visit))).filter(x => x != null) : []
-  // const css = await node.getCSSAsync();
-  // const children = [] as VisitResult[];
-  const css = {} as Record<string, string>;
+const visit = async (node: SceneNode): Promise<VisitResult> => {
+  const { type, name, id } = node;
+  const props: Partial<VisitResult> = {};
 
-  console.log(type, name, children, node, node.children);
   switch (type) {
-    case 'INSTANCE':
-      return { name, id, children, css }
+    case 'INSTANCE': {
+      props.css = await node.getCSSAsync();
+      const component = await node.getMainComponentAsync();
+      props.instanceOf = component ? { name: component.name, id: component.id, key: component.key } : undefined;
+      break;
+    }
     case 'COMPONENT':
-      return { name, id, children, css }
+      break;
     case 'COMPONENT_SET':
-      return { name, id, children, css }
+      break;
     case 'FRAME':
-      return { name, id, children, css };
+      props.css = await node.getCSSAsync();
+      break;
     case 'TEXT':
       console.log('TEXT', node);
       break;
+    case 'VECTOR':
+      props.css = await node.getCSSAsync();
+      return { name, id, children: [], ...props };
     default:
       console.log(type, name, node);
   }
+  console.log(type, name, node, props);
+  const children = 'children' in node ? (await Promise.all(node.children.map(visit))) : [];
+  return { name, id, children, ...props };
+};
+
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+function display(res: VisitResult, level: number = 0) {
+  console.log(`${'  '.repeat(level)}-${res.name}${res.css ? JSON.stringify(res.css) : ''}`);
+  res.children.forEach(node => display(node, level + 1));
 }
 
 figma.on('selectionchange', async () => {
@@ -44,5 +64,5 @@ figma.on('selectionchange', async () => {
   for (const node of figma.currentPage.selection) {
     result.push(await visit(node));
   }
-  console.log(result);
+  // result.forEach(display);
 });
