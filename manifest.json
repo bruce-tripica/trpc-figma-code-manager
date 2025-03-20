@@ -3,13 +3,12 @@
   "id": "1484189379932042381",
   "api": "1.0.0",
   "main": "code.js",
-  "capabilities": [
-    "inspect"
-  ],
   "enableProposedApi": false,
   "documentAccess": "dynamic-page",
-  "editorType": [
-    "dev"
+  "editorType": ["dev"],
+  "capabilities": ["inspect","codegen"],
+  "codegenLanguages": [
+    {"label": "React", "value": "react"}
   ],
   "ui": "ui.html",
   "networkAccess": {

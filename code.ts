@@ -10,7 +10,10 @@
 figma.showUI(__html__);
 
 // Trads
-// figma.variables.getLocalVariablesAsync().then(x => console.log(x.map(v => [v.name, v.codeSyntax, v])));
+const localVariables = {} as Record<string, Variable>;
+figma.variables.getLocalVariablesAsync().then(x => x.forEach(val => localVariables[val.id] = val));
+const localCollectionVariables = {} as Record<string, VariableCollection>;
+figma.variables.getLocalVariableCollectionsAsync().then(x => x.forEach(val => localCollectionVariables[val.id] = val));
 
 type VisitResult = {
   name: string;
@@ -66,3 +69,55 @@ figma.on('selectionchange', async () => {
   }
   // result.forEach(display);
 });
+
+const getVariableById = async (id: string) => {
+  const variable = await figma.variables.getVariableByIdAsync(id);
+  return variable ? variableMapper(variable) : null;
+};
+const getVariableCollectionById = async (id: string) => {
+  const collection = await figma.variables.getVariableCollectionByIdAsync(id);
+  return collection ? variableCollectionMapper(collection) : null;
+};
+
+const variableValueMapper = async (variableValue: VariableValue) => {
+  return typeof variableValue === 'object' && 'type' in variableValue && variableValue.type === 'VARIABLE_ALIAS'
+    ? await getVariableById(variableValue.id)
+    : variableValue;
+};
+const valuesByModeMapper = async (variableByMode: Record<string, VariableValue>) => {
+  const variableValues = {} as Record<string, unknown>;
+  for (const key in variableByMode) {
+    variableValues[key] = await variableValueMapper(variableByMode[key]);
+  }
+  return variableValues;
+};
+
+const variableMapper = async (variable: Variable) => ({
+  name: variable.name,
+  description: variable.description,
+  resolvedType: variable.resolvedType,
+  values: await valuesByModeMapper(variable.valuesByMode),
+  zzRaw: variable,
+});
+
+const variableCollectionMapper = async (collection: VariableCollection) => ({
+  name: collection.name,
+  modes: collection.modes,
+  variables: await Promise.all(collection.variableIds.map(getVariableById)),
+  zzRaw: collection,
+});
+
+const debugVariables = async () => {
+  const node = figma.currentPage.selection[0];
+  const result = [];
+  for (const id in node.resolvedVariableModes) {
+    result.push(await getVariableCollectionById(id));
+  }
+  console.log(result);
+};
+
+figma.ui.onmessage = async (message) => {
+  if (message === 'debug') {
+    await debugVariables();
+  }
+};
