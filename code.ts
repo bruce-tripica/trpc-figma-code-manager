@@ -21,6 +21,9 @@ type VisitResult = {
   children: VisitResult[];
   css?: Record<string, string>;
   instanceOf?: { name: string; id: string; key: string };
+  propsValues?: Record<string, string>;
+  props?: ComponentPropertyDefinitions;
+  modes?: Record<string, string>;
 };
 
 const visit = async (node: SceneNode): Promise<VisitResult> => {
@@ -29,14 +32,19 @@ const visit = async (node: SceneNode): Promise<VisitResult> => {
 
   switch (type) {
     case 'INSTANCE': {
+      console.log(node.componentProperties);
+
       props.css = await node.getCSSAsync();
       const component = await node.getMainComponentAsync();
       props.instanceOf = component ? { name: component.name, id: component.id, key: component.key } : undefined;
       break;
     }
     case 'COMPONENT':
+      props.propsValues = node.variantProperties ?? undefined;
+      props.modes = node.resolvedVariableModes;
       break;
     case 'COMPONENT_SET':
+      props.props = node.componentPropertyDefinitions;
       break;
     case 'FRAME':
       props.css = await node.getCSSAsync();
