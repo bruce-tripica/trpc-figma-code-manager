@@ -14,7 +14,7 @@ type VisitResult = {
   id: string;
   children: VisitResult[];
   css?: Record<string, string>;
-  instanceOf?: { name: string; id: string; key: string ; zzRaw: ComponentNode };
+  instanceOf?: { name: string; id: string; key: string; zzRaw: ComponentNode };
   propsValues?: Record<string, string>;
   props?: ComponentPropertyDefinitions;
   modes?: Record<string, string>;
@@ -30,7 +30,12 @@ const visit = async (node: SceneNode): Promise<VisitResult> => {
     case 'INSTANCE': {
       props.css = await node.getCSSAsync();
       const component = await node.getMainComponentAsync();
-      props.instanceOf = component ? { name: component.name, id: component.id, key: component.key, zzRaw: component } : undefined;
+      props.instanceOf = component ? {
+        name: component.name,
+        id: component.id,
+        key: component.key,
+        zzRaw: component,
+      } : undefined;
       props.propsValues = node.variantProperties ?? undefined;
       break;
     }
@@ -64,7 +69,7 @@ const generateHtml = async () => {
     result.push(await visit(node));
   }
   return result;
-}
+};
 
 const getVariableById = async (id: string) => {
   const variable = await figma.variables.getVariableByIdAsync(id);
@@ -109,6 +114,7 @@ const debugVariables = async () => {
   }
   console.log(result);
 };
+
 function display(res: VisitResult, level: number = 0) {
   console.log(`${'  '.repeat(level)}-${res.name}${res.css ? JSON.stringify(res.css) : ''}`);
   res.children.forEach(node => display(node, level + 1));
