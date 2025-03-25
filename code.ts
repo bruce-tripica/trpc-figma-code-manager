@@ -24,13 +24,14 @@ const visit = async (node: SceneNode): Promise<VisitResult> => {
   const { type, name, id } = node;
   const props: Partial<VisitResult> = {};
 
+  let nodeChildren = 'children' in node ? node.children : [];
+
   switch (type) {
     case 'INSTANCE': {
-      console.log(node.name, node.componentProperties);
-
       props.css = await node.getCSSAsync();
       const component = await node.getMainComponentAsync();
       props.instanceOf = component ? { name: component.name, id: component.id, key: component.key, zzRaw: component } : undefined;
+      props.propsValues = node.variantProperties ?? undefined;
       break;
     }
     case 'COMPONENT':
@@ -39,38 +40,31 @@ const visit = async (node: SceneNode): Promise<VisitResult> => {
       break;
     case 'COMPONENT_SET':
       props.props = node.componentPropertyDefinitions;
+      nodeChildren = [nodeChildren[0]];
       break;
     case 'FRAME':
       props.css = await node.getCSSAsync();
       break;
     case 'TEXT':
-      console.log('TEXT', node);
       break;
     case 'VECTOR':
       props.css = await node.getCSSAsync();
       return { name, id, children: [], ...props };
     default:
-      console.log('default', type, name, node);
+      console.warn(`unknown type ${type}`);
   }
   console.log(type, name, node, props);
-  const children = 'children' in node ? (await Promise.all(node.children.map(visit))) : [];
+  const children = (await Promise.all(nodeChildren.map(visit)));
   return { name, id, children, ...props };
 };
 
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-function display(res: VisitResult, level: number = 0) {
-  console.log(`${'  '.repeat(level)}-${res.name}${res.css ? JSON.stringify(res.css) : ''}`);
-  res.children.forEach(node => display(node, level + 1));
-}
-
-figma.on('selectionchange', async () => {
-  // Selected node
+const generateHtml = async () => {
   const result = [];
   for (const node of figma.currentPage.selection) {
     result.push(await visit(node));
   }
-  // result.forEach(display);
-});
+  return result;
+}
 
 const getVariableById = async (id: string) => {
   const variable = await figma.variables.getVariableByIdAsync(id);
@@ -93,7 +87,6 @@ const valuesByModeMapper = async (variableByMode: Record<string, VariableValue>)
   }
   return variableValues;
 };
-
 const variableMapper = async (variable: Variable) => ({
   name: variable.name,
   description: variable.description,
@@ -101,7 +94,6 @@ const variableMapper = async (variable: Variable) => ({
   values: await valuesByModeMapper(variable.valuesByMode),
   zzRaw: variable,
 });
-
 const variableCollectionMapper = async (collection: VariableCollection) => ({
   name: collection.name,
   modes: collection.modes,
@@ -117,9 +109,24 @@ const debugVariables = async () => {
   }
   console.log(result);
 };
+function display(res: VisitResult, level: number = 0) {
+  console.log(`${'  '.repeat(level)}-${res.name}${res.css ? JSON.stringify(res.css) : ''}`);
+  res.children.forEach(node => display(node, level + 1));
+}
+
+const generateReact = async () => {
+  if (!figma.currentPage.selection.length) {
+    figma.ui.postMessage({type: 'error', message: 'toto'});
+    return;
+  }
+  const node = figma.currentPage.selection[0];
+  return node;
+}
+
 
 figma.ui.onmessage = async (message) => {
-  if (message === 'debug') {
-    await debugVariables();
-  }
+  if (message === 'generate') return await generateHtml();
+  if (message === 'react') return await generateReact();
+  if (message === 'debug') return await debugVariables();
+  if (message === 'display') return display((await generateHtml())[0]);
 };

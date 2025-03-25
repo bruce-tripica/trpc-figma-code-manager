@@ -1,9 +1,88 @@
-<h2>Selection Change Observer</h2>
-<p>Observe the contents of figma.selection change as you change the selection in the file.</p>
-<p>ID of selection is: <span id=selection></span></p>
-
-<button onclick="debugVariables()">Display the variables</button>
+<div class="page">
+    <div style="padding: 8px">
+        <div class="buttons">
+            <div class="button">
+                <button onclick="generateHtml()">
+                    Generate html code
+                </button>
+                <span class="error" hidden="hidden">Error</span>
+            </div>
+            <div class="button">
+                <button onclick="generateReact()">
+                    Generate html code
+                </button>
+                <span class="error" hidden="hidden">Error</span>
+            </div>
+            <button onclick="compareIds()">
+                Compare ids
+            </button>
+        </div>
+        <pre id="code" class="code" hidden="hidden"></pre>
+    </div>
+</div>
 
 <script>
-    const debugVariables = () => window.parent.postMessage({ pluginMessage: 'debug' }, "*");
+    const generateHtml = () => {
+        window.parent.postMessage({pluginMessage: 'generate'}, "*")
+    }
+    const generateReact = (event) => {
+        event.target.nextSibling.hidden = true;
+        event.target.nextSibling.classList.add('loading');
+        window.parent.postMessage({pluginMessage: 'generate'}, "*")
+    }
+    const compareIds = () => window.parent.postMessage({pluginMessage: 'compare'}, "*")
+    onmessage = ({data: {pluginMessage: {type, message}}}) => {
+        if (type === 'error') {
+            const loadingError = [...document.getElementsByClassName('error')].find((node) => node.classList.contains('loading'));
+            if (loadingError) {
+                loadingError.hidden = false;
+                loadingError.innerHTML = message;
+            }
+        }
+        if (type === 'react') {
+            document.getElementById('code').hidden = false;
+            document.getElementById('code').innerHTML = event.data.pluginMessage;
+        }
+    }
 </script>
+
+<style>
+    .page {
+        background-color: #2C2C2C;
+        margin: -8px -8px -8px;
+        height: 100%;
+        padding: 7px 8px 8px;
+        overflow-y: hidden;
+        border-top: 1px solid #444444;
+    }
+
+    .buttons, .button {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    button {
+        padding: 8px 16px;
+        color: white;
+        background: #444444;
+        border: 1px solid #575757;
+        border-radius: 4px;
+    }
+
+    button:hover {
+        background: #575757;
+        border: 1px solid #6a6a6a;
+    }
+
+    button:active {
+        background: #444444;
+    }
+
+    .code {
+        width: 100%;
+        background: #1f2023;
+        color: white;
+    }
+</style>
