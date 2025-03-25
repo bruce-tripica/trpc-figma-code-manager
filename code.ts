@@ -9,18 +9,12 @@
 // This shows the HTML page in "ui.html".
 figma.showUI(__html__);
 
-// Trads
-const localVariables = {} as Record<string, Variable>;
-figma.variables.getLocalVariablesAsync().then(x => x.forEach(val => localVariables[val.id] = val));
-const localCollectionVariables = {} as Record<string, VariableCollection>;
-figma.variables.getLocalVariableCollectionsAsync().then(x => x.forEach(val => localCollectionVariables[val.id] = val));
-
 type VisitResult = {
   name: string;
   id: string;
   children: VisitResult[];
   css?: Record<string, string>;
-  instanceOf?: { name: string; id: string; key: string };
+  instanceOf?: { name: string; id: string; key: string ; zzRaw: ComponentNode };
   propsValues?: Record<string, string>;
   props?: ComponentPropertyDefinitions;
   modes?: Record<string, string>;
@@ -32,11 +26,11 @@ const visit = async (node: SceneNode): Promise<VisitResult> => {
 
   switch (type) {
     case 'INSTANCE': {
-      console.log(node.componentProperties);
+      console.log(node.name, node.componentProperties);
 
       props.css = await node.getCSSAsync();
       const component = await node.getMainComponentAsync();
-      props.instanceOf = component ? { name: component.name, id: component.id, key: component.key } : undefined;
+      props.instanceOf = component ? { name: component.name, id: component.id, key: component.key, zzRaw: component } : undefined;
       break;
     }
     case 'COMPONENT':
@@ -56,7 +50,7 @@ const visit = async (node: SceneNode): Promise<VisitResult> => {
       props.css = await node.getCSSAsync();
       return { name, id, children: [], ...props };
     default:
-      console.log(type, name, node);
+      console.log('default', type, name, node);
   }
   console.log(type, name, node, props);
   const children = 'children' in node ? (await Promise.all(node.children.map(visit))) : [];
@@ -118,7 +112,7 @@ const variableCollectionMapper = async (collection: VariableCollection) => ({
 const debugVariables = async () => {
   const node = figma.currentPage.selection[0];
   const result = [];
-  for (const id in node.resolvedVariableModes) {
+  for (const id in (node?.resolvedVariableModes ?? {})) {
     result.push(await getVariableCollectionById(id));
   }
   console.log(result);
