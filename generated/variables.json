@@ -1,0 +1,5852 @@
+[
+  {
+    "name": "Spacing",
+    "modes": [
+      {
+        "name": "Mode 1",
+        "modeId": "309:0"
+      }
+    ],
+    "variables": [
+      {
+        "name": "spacing-0",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 0
+        },
+        "zzRaw": {
+          "id": "VariableID:a679e5fdcdca9476c98fc2a22225eb829f4a7b10/338:20"
+        }
+      },
+      {
+        "name": "spacing-0,5",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 2
+        },
+        "zzRaw": {
+          "id": "VariableID:6efaba9765a8ecb5e15beb5427c5c0dfcf025847/712:13"
+        }
+      },
+      {
+        "name": "spacing-2",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 4
+        },
+        "zzRaw": {
+          "id": "VariableID:3df8d7b200227a61bf0ca30d992c0db94574fbd8/338:18"
+        }
+      },
+      {
+        "name": "spacing-1",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 4
+        },
+        "zzRaw": {
+          "id": "VariableID:3df8d7b200227a61bf0ca30d992c0db94574fbd8/712:14"
+        }
+      },
+      {
+        "name": "spacing-3",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 8
+        },
+        "zzRaw": {
+          "id": "VariableID:5a69b46072f0d29937fd699b7ba3043a0cc6f843/338:17"
+        }
+      },
+      {
+        "name": "spacing-2",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 8
+        },
+        "zzRaw": {
+          "id": "VariableID:5a69b46072f0d29937fd699b7ba3043a0cc6f843/712:15"
+        }
+      },
+      {
+        "name": "spacing-4",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 12
+        },
+        "zzRaw": {
+          "id": "VariableID:50464c4af5b04e62e84191301f4bde5633843275/338:16"
+        }
+      },
+      {
+        "name": "spacing-3",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 12
+        },
+        "zzRaw": {
+          "id": "VariableID:50464c4af5b04e62e84191301f4bde5633843275/712:16"
+        }
+      },
+      {
+        "name": "spacing-5",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 16
+        },
+        "zzRaw": {
+          "id": "VariableID:b36fa1be04e174f5536a952ac7c778522fb92242/338:15"
+        }
+      },
+      {
+        "name": "spacing-4",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 16
+        },
+        "zzRaw": {
+          "id": "VariableID:b36fa1be04e174f5536a952ac7c778522fb92242/712:17"
+        }
+      },
+      {
+        "name": "spacing-6",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 20
+        },
+        "zzRaw": {
+          "id": "VariableID:48570ae3d0e0a0497440e033b13a7842fa722769/338:14"
+        }
+      },
+      {
+        "name": "spacing-5",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 20
+        },
+        "zzRaw": {
+          "id": "VariableID:48570ae3d0e0a0497440e033b13a7842fa722769/712:18"
+        }
+      },
+      {
+        "name": "spacing-6",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 24
+        },
+        "zzRaw": {
+          "id": "VariableID:263ebb99c8cdebb3826c5e24c047a1314e97b9ee/712:19"
+        }
+      },
+      {
+        "name": "spacing-7",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 32
+        },
+        "zzRaw": {
+          "id": "VariableID:0bd401c7936ccfea25be2e645bbffc494fddce92/327:13"
+        }
+      },
+      {
+        "name": "spacing-8",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 32
+        },
+        "zzRaw": {
+          "id": "VariableID:0bd401c7936ccfea25be2e645bbffc494fddce92/712:32"
+        }
+      },
+      {
+        "name": "spacing-9",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 40
+        },
+        "zzRaw": {
+          "id": "VariableID:63e2f5eada8465d737681a5ec16d5b9a7e057045/338:11"
+        }
+      },
+      {
+        "name": "spacing-10",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 40
+        },
+        "zzRaw": {
+          "id": "VariableID:63e2f5eada8465d737681a5ec16d5b9a7e057045/712:31"
+        }
+      },
+      {
+        "name": "spacing-12",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 48
+        },
+        "zzRaw": {
+          "id": "VariableID:59da6eda594889c97f082d3c693fe92bb1bf9b82/712:30"
+        }
+      },
+      {
+        "name": "spacing-14",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 56
+        },
+        "zzRaw": {
+          "id": "VariableID:3891e897f486bfb8a212d8cad7f23a7dc4fe5039/712:29"
+        }
+      },
+      {
+        "name": "spacing-16",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 64
+        },
+        "zzRaw": {
+          "id": "VariableID:d9d93e8277efc993e6c0090c6c7bfe661ca2e6c9/712:28"
+        }
+      },
+      {
+        "name": "spacing-18",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 72
+        },
+        "zzRaw": {
+          "id": "VariableID:8e4dac974ee6178e3572c2f5d5fa2b37fd07f399/712:27"
+        }
+      },
+      {
+        "name": "spacing-20",
+        "description": "",
+        "resolvedType": "FLOAT",
+        "values": {
+          "309:0": 80
+        },
+        "zzRaw": {
+          "id": "VariableID:d02a5e7ac916a07c4d4c5707b8687547d19b5b50/712:26"
+        }
+      }
+    ],
+    "zzRaw": {
+      "id": "VariableCollectionId:341c6a48b31b2effe127e552c495f81886d653c6/309:4"
+    }
+  },
+  {
+    "name": "Colors",
+    "modes": [
+      {
+        "name": "Desktop",
+        "modeId": "309:1"
+      }
+    ],
+    "variables": [
+      {
+        "name": "Primary/Primary 10",
+        "description": "test color",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.9725490212440491,
+            "g": 0.9843137264251709,
+            "b": 0.9882352948188782,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:9f8ea6769d4eb4e514ce0c8d8ae8e5297b10522f/926:61"
+        }
+      },
+      {
+        "name": "Primary/Primary 20 (25)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.9176470637321472,
+            "g": 0.9254902005195618,
+            "b": 0.9450980424880981,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:d44296d125ddd64eabf8c5575b5012f47914ce36/926:83"
+        }
+      },
+      {
+        "name": "Primary/Primary 50",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.8392156958580017,
+            "g": 0.9098039269447327,
+            "b": 0.9411764740943909,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ca3db5681001eccf9c64a4578279c52f067311b9/926:55"
+        }
+      },
+      {
+        "name": "Primary/Primary 100 (200)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.4431372582912445,
+            "g": 0.5921568870544434,
+            "b": 0.8196078538894653,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:5575448d58fa7f08e67fc905b9674412fe9bad6a/926:150"
+        }
+      },
+      {
+        "name": "Primary/Primary 200 (250)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.30588236451148987,
+            "g": 0.4470588266849518,
+            "b": 0.7568627595901489,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:57c189ea94f41194a0d223cedc8f11008a7354d8/926:143"
+        }
+      },
+      {
+        "name": "Primary/Primary 300",
+        "description": "primary-300",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.18039216101169586,
+            "g": 0.3019607961177826,
+            "b": 0.6980392336845398,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:b97441f60a23ee2ebe0356af98847c9be464809b/926:134"
+        }
+      },
+      {
+        "name": "Primary/Primary 400",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0,
+            "g": 0.0470588244497776,
+            "b": 0.5607843399047852,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:b71dd629ebd3596d723bdb340be95c8477d42bee/926:69"
+        }
+      },
+      {
+        "name": "Primary/Primary 500 (600)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.10980392247438431,
+            "g": 0.01568627543747425,
+            "b": 0.32549020648002625,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:4b1b9304bf4af58c83501a82f25ae4035e3c1c35/926:129"
+        }
+      },
+      {
+        "name": "Primary/Primary 600 (950)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.08627451211214066,
+            "g": 0.07450980693101883,
+            "b": 0.14901961386203766,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:4d20d6e3ab9502769de106a10f23c4a7a3745366/926:125"
+        }
+      },
+      {
+        "name": "Secondary/Secondary 10",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.9843137264251709,
+            "g": 0.9921568632125854,
+            "b": 0.9882352948188782,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:5494d704886e1f2c5a722a8a23ea492a83bf46ed/926:118"
+        }
+      },
+      {
+        "name": "Secondary/Secondary 20",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.9607843160629272,
+            "g": 0.9803921580314636,
+            "b": 0.9764705896377563,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:187816fd6ca6b4d5d65db8b411b927904b941b21/926:113"
+        }
+      },
+      {
+        "name": "Secondary/Secondary 50 (150)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.8274509906768799,
+            "g": 0.9098039269447327,
+            "b": 0.8823529481887817,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ad52361f27898bc5e9386ae56ddb976476d252c4/1123:11"
+        }
+      },
+      {
+        "name": "Secondary/Secondary 50 (150)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.8274509906768799,
+            "g": 0.9098039269447327,
+            "b": 0.8823529481887817,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ad52361f27898bc5e9386ae56ddb976476d252c4/926:108"
+        }
+      },
+      {
+        "name": "Secondary/Secondary 100 (250)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.8352941274642944,
+            "g": 0.9647058844566345,
+            "b": 0.9058823585510254,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:75529dd56011e54505a3736dd2fbf34ef23c6b39/1123:7"
+        }
+      },
+      {
+        "name": "Secondary/Secondary 200 (400)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.5960784554481506,
+            "g": 0.9450980424880981,
+            "b": 0.8352941274642944,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:4cb45c0f80a3d678a4014bcac8546a4d5d60a43d/926:163"
+        }
+      },
+      {
+        "name": "Secondary/Secondary 300 (500)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0,
+            "g": 0.8588235378265381,
+            "b": 0.572549045085907,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:01e0843aa198ccb4e832605fef06b4cc55f771a1/926:68"
+        }
+      },
+      {
+        "name": "Secondary/Secondary 400 (700)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0,
+            "g": 0.729411780834198,
+            "b": 0.48627451062202454,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:762ba96a77310488e6f5288da244853ca8b9645e/1122:1"
+        }
+      },
+      {
+        "name": "Secondary/Secondary 500 (1000)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0,
+            "g": 0.5137255191802979,
+            "b": 0.3450980484485626,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:a12d63a7df76282e726e502a1d3e81db11a53704/948:22"
+        }
+      },
+      {
+        "name": "Secondary/Secondary 500 (1100)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0,
+            "g": 0.5137255191802979,
+            "b": 0.3450980484485626,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:a12d63a7df76282e726e502a1d3e81db11a53704/1123:27"
+        }
+      },
+      {
+        "name": "Secondary/Secondary 600 (1150)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0,
+            "g": 0.38823530077934265,
+            "b": 0.25882354378700256,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:6b5ee95f23376afb6a8cf8623380622788347541/948:25"
+        }
+      },
+      {
+        "name": "Secondary/Secondary 600 (1150)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0,
+            "g": 0.38823530077934265,
+            "b": 0.25882354378700256,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:6b5ee95f23376afb6a8cf8623380622788347541/1123:30"
+        }
+      },
+      {
+        "name": "Secondary/Secondary 700",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0,
+            "g": 0.21568627655506134,
+            "b": 0.14509804546833038,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:23e9038de193da02727f35530e3a8c9af13fa40f/948:33"
+        }
+      },
+      {
+        "name": "Neutral/Neutral 10 (5)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.9686274528503418,
+            "g": 0.9686274528503418,
+            "b": 0.9686274528503418,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:c98e12501627db78b842e164cd8b947ae216c1c6/926:80"
+        }
+      },
+      {
+        "name": "Neutral/Neutral 20 (10)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.9411764740943909,
+            "g": 0.9372549057006836,
+            "b": 0.9411764740943909,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:65f547b408691453d0cea544c4fdcd77b84fdea1/926:106"
+        }
+      },
+      {
+        "name": "Neutral/Neutral 50 (20)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.8392156958580017,
+            "g": 0.8392156958580017,
+            "b": 0.8392156958580017,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:77cf88091f34b2d7e136fecbf475d8439a637c1f/926:95"
+        }
+      },
+      {
+        "name": "Neutral/Neutral 100 (25)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.7803921699523926,
+            "g": 0.7803921699523926,
+            "b": 0.7803921699523926,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:317eb42f9fe5d8b4d9bc2586ee537b37375aec90/926:160"
+        }
+      },
+      {
+        "name": "Neutral/Neutral 200 (45)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.5607843399047852,
+            "g": 0.5607843399047852,
+            "b": 0.5607843399047852,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:9cd3b4f2ae77199e13b733ebaa4fdc629ec657f8/926:114"
+        }
+      },
+      {
+        "name": "Neutral/Neutral 300 (60)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.4000000059604645,
+            "g": 0.4000000059604645,
+            "b": 0.4000000059604645,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:0ac416a1f0f3ac28ca7f705a4102debd6624702d/926:100"
+        }
+      },
+      {
+        "name": "Neutral/Neutral 400 (70)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.29019609093666077,
+            "g": 0.29019609093666077,
+            "b": 0.29019609093666077,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:e749215015e75cbe2caeede0d7a15a3d0a262b3f/926:88"
+        }
+      },
+      {
+        "name": "Neutral/Neutral 500 (80)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.18431372940540314,
+            "g": 0.1882352977991104,
+            "b": 0.1725490242242813,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:3155f49acdb112153ab4705cd7811ec1148974b0/926:145"
+        }
+      },
+      {
+        "name": "Neutral/Neutral 600 (90)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.08235294371843338,
+            "g": 0.09803921729326248,
+            "b": 0.09019608050584793,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:c6decb45ccfe7d908e4ad5870ca8f534171405b5/926:76"
+        }
+      },
+      {
+        "name": "Success/Success 10 (x)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.9725490212440491,
+            "g": 0.9843137264251709,
+            "b": 0.95686274766922,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:250a11f19631016e8141fe339b99c9d7dd61d63e/926:73"
+        }
+      },
+      {
+        "name": "Success/Success 20",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.9529411792755127,
+            "g": 0.9764705896377563,
+            "b": 0.9019607901573181,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:7861557fee2140961a9a1b1d50165f92a65e0cae/926:155"
+        }
+      },
+      {
+        "name": "Success/Success 50 (x)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.7607843279838562,
+            "g": 0.8705882430076599,
+            "b": 0.6392157077789307,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:922cdadfcc86a9905ff5c4d5e5d7ac913268bd15/926:147"
+        }
+      },
+      {
+        "name": "Success/Success 100 (x)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.6627451181411743,
+            "g": 0.8156862854957581,
+            "b": 0.4901960790157318,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:4a8995aaa0be8c9d35da5d3285270b1688e8b63d/926:135"
+        }
+      },
+      {
+        "name": "Success/Success 200 (x)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.5176470875740051,
+            "g": 0.7372549176216125,
+            "b": 0.2666666805744171,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:c88b3365bcf201436917bdc81715c111ce0b404f/926:137"
+        }
+      },
+      {
+        "name": "Success/Success 300 (500)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.41960784792900085,
+            "g": 0.6823529601097107,
+            "b": 0.11764705926179886,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ab7da470cdf343070645e55dbc6064262ef1ea60/926:64"
+        }
+      },
+      {
+        "name": "Success/Success 400 (600)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.3019607961177826,
+            "g": 0.6000000238418579,
+            "b": 0,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:2315f712b78c3791541c952b2ab912ee077e7615/926:51"
+        }
+      },
+      {
+        "name": "Success/Success 500 (x)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.1882352977991104,
+            "g": 0.30588236451148987,
+            "b": 0.05098039284348488,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:84b6dbc6302a16f4bf59a141b372dbc5b67630ae/926:99"
+        }
+      },
+      {
+        "name": "Success/Success 600 (x)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.10588235408067703,
+            "g": 0.1725490242242813,
+            "b": 0.0313725508749485,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:a26cf454a7a8245fe06c8c8c928fa92e158f3690/926:90"
+        }
+      },
+      {
+        "name": "Error/Error 10",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.9960784316062927,
+            "g": 0.9607843160629272,
+            "b": 0.9607843160629272,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:23d457cb45d5ccd4fd5204a74f535d3abdbf70fd/926:157"
+        }
+      },
+      {
+        "name": "Error/Error 20",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.9882352948188782,
+            "g": 0.886274516582489,
+            "b": 0.8823529481887817,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:be174cb6a3ca3c18762b8c7a126daaf66793c3c7/926:84"
+        }
+      },
+      {
+        "name": "Error/Error 50",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 1,
+            "g": 0.7607843279838562,
+            "b": 0.7529411911964417,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:c2d64bd97247e1360ca8eebac24dd1b8a5b4a723/926:152"
+        }
+      },
+      {
+        "name": "Error/Error 100 (400)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 1,
+            "g": 0.41960784792900085,
+            "b": 0.4000000059604645,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:204f174fd0c0255606dfd27ad266b0e0beea9b00/926:77"
+        }
+      },
+      {
+        "name": "Error/Error 200 (700)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.8823529481887817,
+            "g": 0.01568627543747425,
+            "b": 0,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:8baebec5c1ff29195f71ea270c32ce0d68bfde3d/926:63"
+        }
+      },
+      {
+        "name": "Error/Error 300 (800)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.658823549747467,
+            "g": 0.0313725508749485,
+            "b": 0,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:e73f8afa1fe8cacfb803211399aefc30bb399be5/926:52"
+        }
+      },
+      {
+        "name": "Error/Error 400 (850)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.529411792755127,
+            "g": 0.007843137718737125,
+            "b": 0,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:d6d31b27f509d506a915f99c717038366207e7ef/926:45"
+        }
+      },
+      {
+        "name": "Warning/Warning 10",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 1,
+            "g": 0.9882352948188782,
+            "b": 0.9607843160629272,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:f88c254ff03c9d8be88e927018c4e078d0f6537e/926:122"
+        }
+      },
+      {
+        "name": "Error/Error 500 (900)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.32549020648002625,
+            "g": 0.08235294371843338,
+            "b": 0.0784313753247261,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:0e0eff006ca1ab628a49bdb7857d55270fa41e78/926:104"
+        }
+      },
+      {
+        "name": "Warning/Warning 20",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 1,
+            "g": 0.9607843160629272,
+            "b": 0.8705882430076599,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:275f7f8694d2367a434611c7379c11fef546d88b/926:56"
+        }
+      },
+      {
+        "name": "Error/Error 600 (1000)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.23529411852359772,
+            "g": 0.05882352963089943,
+            "b": 0.05882352963089943,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:09cc80b2673c1c87e1f40c26e18c2e5bb0c36d31/926:66"
+        }
+      },
+      {
+        "name": "Warning/Warning 50",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 1,
+            "g": 0.9019607901573181,
+            "b": 0.6431372761726379,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:55371b6e864b67abee9a80ed571a0498bef76beb/926:92"
+        }
+      },
+      {
+        "name": "Warning/Warning 100",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 1,
+            "g": 0.7960784435272217,
+            "b": 0.34117648005485535,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:c25043ae6a402fd25b98b82d17ad6625d309beaf/926:159"
+        }
+      },
+      {
+        "name": "Warning/Warning 200",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 1,
+            "g": 0.7607843279838562,
+            "b": 0.23137255012989044,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:1cf4b9e8e1c053dd2de0edd0a1289c7a384a02a5/926:47"
+        }
+      },
+      {
+        "name": "Warning/Warning 300",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 1,
+            "g": 0.6901960968971252,
+            "b": 0,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:a8467887f6d48c41fa03f3143f76ce4e8dc2beb3/926:60"
+        }
+      },
+      {
+        "name": "Warning/Warning 400",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.5843137502670288,
+            "g": 0.3960784375667572,
+            "b": 0.08627451211214066,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:3582f3207744760bafc3d2319e532f129f4873f7/926:48"
+        }
+      },
+      {
+        "name": "Warning/Warning 500",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.33725491166114807,
+            "g": 0.22745098173618317,
+            "b": 0.05098039284348488,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:efeda744320007414eab0fd222184b998059007f/926:49"
+        }
+      },
+      {
+        "name": "Warning/Warning 600",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 0.239215686917305,
+            "g": 0.16078431904315948,
+            "b": 0.03529411926865578,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:1b83730eafe29a9aebcbf91606a65d93b7838130/926:72"
+        }
+      },
+      {
+        "name": "White",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "309:1": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:bd87f03cbaf116e1cd33a9bbfe078cb6a4d671ac/926:39"
+        }
+      }
+    ],
+    "zzRaw": {
+      "id": "VariableCollectionId:c6192546de96a1c09c0406fda9fdce62f7f749d7/926:164"
+    }
+  },
+  {
+    "name": "Tokens",
+    "modes": [
+      {
+        "name": "Light",
+        "modeId": "18:0"
+      }
+    ],
+    "variables": [
+      {
+        "name": "Action/Primary",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 300",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.18039216101169586,
+                "g": 0.3019607961177826,
+                "b": 0.6980392336845398,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:b97441f60a23ee2ebe0356af98847c9be464809b/309:86"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:cc50db937ebccd9300746396652e647d0ff472ec/309:246"
+        }
+      },
+      {
+        "name": "Action/Primary (p-300)",
+        "description": "primary-300",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 300",
+            "description": "primary-300",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.18039216101169586,
+                "g": 0.3019607961177826,
+                "b": 0.6980392336845398,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.18039216101169586,
+                "g": 0.3019607961177826,
+                "b": 0.6980392336845398,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:b97441f60a23ee2ebe0356af98847c9be464809b/790:30"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:cc50db937ebccd9300746396652e647d0ff472ec/792:8"
+        }
+      },
+      {
+        "name": "Action/Primary",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 300",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.18039216101169586,
+                "g": 0.3019607961177826,
+                "b": 0.6980392336845398,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:b97441f60a23ee2ebe0356af98847c9be464809b/479:95"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:cc50db937ebccd9300746396652e647d0ff472ec/479:93"
+        }
+      },
+      {
+        "name": "Action/Primary (p-300)",
+        "description": "primary-300",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 300",
+            "description": "primary-300",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.18039216101169586,
+                "g": 0.3019607961177826,
+                "b": 0.6980392336845398,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:b97441f60a23ee2ebe0356af98847c9be464809b/926:134"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:cc50db937ebccd9300746396652e647d0ff472ec/926:158"
+        }
+      },
+      {
+        "name": "Action/Primary-hover (p-400)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 400",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0,
+                "g": 0.0470588244497776,
+                "b": 0.5607843399047852,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:b71dd629ebd3596d723bdb340be95c8477d42bee/926:69"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:be288c85569cb64e37ae4c90d6ced4c7b1fd33ba/926:130"
+        }
+      },
+      {
+        "name": "Action/Primary-hover",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 400",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0,
+                "g": 0.0470588244497776,
+                "b": 0.5607843399047852,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:b71dd629ebd3596d723bdb340be95c8477d42bee/479:92"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:be288c85569cb64e37ae4c90d6ced4c7b1fd33ba/479:123"
+        }
+      },
+      {
+        "name": "Action/Primary-active",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 500",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.10980392247438431,
+                "g": 0.01568627543747425,
+                "b": 0.32549020648002625,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:4b1b9304bf4af58c83501a82f25ae4035e3c1c35/309:88"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:9b5be3156d74050680372c1d8c17296188a74a82/309:270"
+        }
+      },
+      {
+        "name": "Action/Primary-active (p-600)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 500 (600)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.10980392247438431,
+                "g": 0.01568627543747425,
+                "b": 0.32549020648002625,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:4b1b9304bf4af58c83501a82f25ae4035e3c1c35/926:129"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:9b5be3156d74050680372c1d8c17296188a74a82/926:126"
+        }
+      },
+      {
+        "name": "Action/Primary-active",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 500",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.10980392247438431,
+                "g": 0.01568627543747425,
+                "b": 0.32549020648002625,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:4b1b9304bf4af58c83501a82f25ae4035e3c1c35/479:111"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:9b5be3156d74050680372c1d8c17296188a74a82/479:89"
+        }
+      },
+      {
+        "name": "Action/Secondary (s-1100)",
+        "description": "secondary-1000",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 500 (1100)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0,
+                "g": 0.5137255191802979,
+                "b": 0.3450980484485626,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:a12d63a7df76282e726e502a1d3e81db11a53704/1123:27"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ac266e0a73c863e851faae19a89ddc96efedcaca/1123:31"
+        }
+      },
+      {
+        "name": "Action/Secondary (s-1000)",
+        "description": "secondary-1000",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 500 (1000)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0,
+                "g": 0.5137255191802979,
+                "b": 0.3450980484485626,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:a12d63a7df76282e726e502a1d3e81db11a53704/948:22"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ac266e0a73c863e851faae19a89ddc96efedcaca/948:21"
+        }
+      },
+      {
+        "name": "Action/Secondary (s-1000)",
+        "description": "secondary-1000",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 1000",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.13725490868091583,
+                "g": 0.545098066329956,
+                "b": 0.43529412150382996,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.10196078568696976,
+                "g": 0.3960784375667572,
+                "b": 0.3176470696926117,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:a12d63a7df76282e726e502a1d3e81db11a53704/682:338"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ac266e0a73c863e851faae19a89ddc96efedcaca/792:11"
+        }
+      },
+      {
+        "name": "Action/Secondary",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 400",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.13725490868091583,
+                "g": 0.545098066329956,
+                "b": 0.43529412150382996,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:762ba96a77310488e6f5288da244853ca8b9645e/479:102"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ac266e0a73c863e851faae19a89ddc96efedcaca/479:97"
+        }
+      },
+      {
+        "name": "Action/Secondary-hover",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 500",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.10196078568696976,
+                "g": 0.3960784375667572,
+                "b": 0.3176470696926117,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:a12d63a7df76282e726e502a1d3e81db11a53704/479:106"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:070cd95b23792145a4bd87eea876c5d3d86d26fc/479:122"
+        }
+      },
+      {
+        "name": "Action/Secondary-hover (s-1050)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 600 (1150)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0,
+                "g": 0.38823530077934265,
+                "b": 0.25882354378700256,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:6b5ee95f23376afb6a8cf8623380622788347541/948:25"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:070cd95b23792145a4bd87eea876c5d3d86d26fc/948:23"
+        }
+      },
+      {
+        "name": "Action/Secondary-hover (s-1100)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 600 (1150)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0,
+                "g": 0.38823530077934265,
+                "b": 0.25882354378700256,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:6b5ee95f23376afb6a8cf8623380622788347541/1123:30"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:070cd95b23792145a4bd87eea876c5d3d86d26fc/1123:28"
+        }
+      },
+      {
+        "name": "Action/Secondary-active (s-1150)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 700",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0,
+                "g": 0.21568627655506134,
+                "b": 0.14509804546833038,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:23e9038de193da02727f35530e3a8c9af13fa40f/948:33"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ec58cdad509225a16c6bc1ff6c748e384859749f/948:32"
+        }
+      },
+      {
+        "name": "Action/Secondary-active",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 700",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0,
+                "g": 0.21568627655506134,
+                "b": 0.14509804546833038,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:23e9038de193da02727f35530e3a8c9af13fa40f/948:33"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ec58cdad509225a16c6bc1ff6c748e384859749f/1123:22"
+        }
+      },
+      {
+        "name": "Action/Secondary-active",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 600",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.0470588244497776,
+                "g": 0.1921568661928177,
+                "b": 0.15294118225574493,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:6b5ee95f23376afb6a8cf8623380622788347541/479:5"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ec58cdad509225a16c6bc1ff6c748e384859749f/479:6"
+        }
+      },
+      {
+        "name": "Action/Disabled",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 45",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.5607843399047852,
+                "g": 0.5607843399047852,
+                "b": 0.5607843399047852,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.5607843399047852,
+                "g": 0.5607843399047852,
+                "b": 0.5607843399047852,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:9cd3b4f2ae77199e13b733ebaa4fdc629ec657f8/682:360"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ce70f2dcfd473f9fe1bef790e36e338b6723ee3e/684:35"
+        }
+      },
+      {
+        "name": "Action/Disabled (n-45)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 300 (60)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.4000000059604645,
+                "g": 0.4000000059604645,
+                "b": 0.4000000059604645,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:0ac416a1f0f3ac28ca7f705a4102debd6624702d/926:100"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ce70f2dcfd473f9fe1bef790e36e338b6723ee3e/950:39"
+        }
+      },
+      {
+        "name": "Action/Disabled (n-45)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 45",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.5607843399047852,
+                "g": 0.5607843399047852,
+                "b": 0.5607843399047852,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.5607843399047852,
+                "g": 0.5607843399047852,
+                "b": 0.5607843399047852,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:9cd3b4f2ae77199e13b733ebaa4fdc629ec657f8/682:360"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ce70f2dcfd473f9fe1bef790e36e338b6723ee3e/792:14"
+        }
+      },
+      {
+        "name": "Action/Disabled (n-60)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 300 (60)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.4000000059604645,
+                "g": 0.4000000059604645,
+                "b": 0.4000000059604645,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:0ac416a1f0f3ac28ca7f705a4102debd6624702d/926:100"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ce70f2dcfd473f9fe1bef790e36e338b6723ee3e/1105:2"
+        }
+      },
+      {
+        "name": "Action/Disabled",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 200",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.5607843399047852,
+                "g": 0.5607843399047852,
+                "b": 0.5607843399047852,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:9cd3b4f2ae77199e13b733ebaa4fdc629ec657f8/479:32"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ce70f2dcfd473f9fe1bef790e36e338b6723ee3e/546:0"
+        }
+      },
+      {
+        "name": "Action/Disabled-hover (n-60)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 400 (70)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.29019609093666077,
+                "g": 0.29019609093666077,
+                "b": 0.29019609093666077,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:e749215015e75cbe2caeede0d7a15a3d0a262b3f/926:88"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ecffece492ad92588c53a35a289c5377ee70a5e0/950:40"
+        }
+      },
+      {
+        "name": "Action/Disabled-hover",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 300",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.4000000059604645,
+                "g": 0.4000000059604645,
+                "b": 0.4000000059604645,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:0ac416a1f0f3ac28ca7f705a4102debd6624702d/479:55"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ecffece492ad92588c53a35a289c5377ee70a5e0/546:1"
+        }
+      },
+      {
+        "name": "Action/Disabled-active (n-80)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 500 (80)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.18431372940540314,
+                "g": 0.1882352977991104,
+                "b": 0.1725490242242813,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:3155f49acdb112153ab4705cd7811ec1148974b0/926:145"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ae096e155157f9c37ab7b4e915fdae3f5457f138/926:38"
+        }
+      },
+      {
+        "name": "Action/Disabled-active",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 400",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.29019609093666077,
+                "g": 0.29019609093666077,
+                "b": 0.29019609093666077,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:e749215015e75cbe2caeede0d7a15a3d0a262b3f/479:51"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ae096e155157f9c37ab7b4e915fdae3f5457f138/546:2"
+        }
+      },
+      {
+        "name": "Action/Error",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 300",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.658823549747467,
+                "g": 0.0313725508749485,
+                "b": 0,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:e73f8afa1fe8cacfb803211399aefc30bb399be5/479:19"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:0fdeb7f890659e8147f06f1bf05d2712837914d6/479:21"
+        }
+      },
+      {
+        "name": "Action/Error (e-850)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 850",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.658823549747467,
+                "g": 0.0313725508749485,
+                "b": 0,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.529411792755127,
+                "g": 0.007843137718737125,
+                "b": 0,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:d6d31b27f509d506a915f99c717038366207e7ef/684:146"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:0fdeb7f890659e8147f06f1bf05d2712837914d6/792:17"
+        }
+      },
+      {
+        "name": "Action/Error (e-850)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 400 (850)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.529411792755127,
+                "g": 0.007843137718737125,
+                "b": 0,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:d6d31b27f509d506a915f99c717038366207e7ef/926:45"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:0fdeb7f890659e8147f06f1bf05d2712837914d6/926:35"
+        }
+      },
+      {
+        "name": "Action/Error-hover",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 400",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.529411792755127,
+                "g": 0.007843137718737125,
+                "b": 0,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:d6d31b27f509d506a915f99c717038366207e7ef/479:14"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ab4ea3d2d656725ae03f171870441377a75c5fdd/479:16"
+        }
+      },
+      {
+        "name": "Action/Error-hover (e-900)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 500 (900)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.32549020648002625,
+                "g": 0.08235294371843338,
+                "b": 0.0784313753247261,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:0e0eff006ca1ab628a49bdb7857d55270fa41e78/926:104"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ab4ea3d2d656725ae03f171870441377a75c5fdd/926:94"
+        }
+      },
+      {
+        "name": "Action/Error-active (e-1000)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 600 (1000)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.23529411852359772,
+                "g": 0.05882352963089943,
+                "b": 0.05882352963089943,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:09cc80b2673c1c87e1f40c26e18c2e5bb0c36d31/926:66"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:07cc09d6488781d598635f012d7b809913b3e0f2/926:110"
+        }
+      },
+      {
+        "name": "Action/Error-active",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 500",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.32549020648002625,
+                "g": 0.08235294371843338,
+                "b": 0.0784313753247261,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:0e0eff006ca1ab628a49bdb7857d55270fa41e78/479:70"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:07cc09d6488781d598635f012d7b809913b3e0f2/479:75"
+        }
+      },
+      {
+        "name": "Action/Success (sc-500)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Success/Success 300 (500)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.41960784792900085,
+                "g": 0.6823529601097107,
+                "b": 0.11764705926179886,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:ab7da470cdf343070645e55dbc6064262ef1ea60/926:64"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:bff35ed0f11f112b919d4fee9a7a6b57500770c9/926:62"
+        }
+      },
+      {
+        "name": "Border/Primary (p-50)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 50",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.8392156958580017,
+                "g": 0.9098039269447327,
+                "b": 0.9411764740943909,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:ca3db5681001eccf9c64a4578279c52f067311b9/926:55"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:0390ab911955ea7f24a247f46c203ceea2436002/926:139"
+        }
+      },
+      {
+        "name": "Border/Primary",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 50",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.8470588326454163,
+                "g": 0.886274516582489,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:ca3db5681001eccf9c64a4578279c52f067311b9/479:101"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:0390ab911955ea7f24a247f46c203ceea2436002/479:110"
+        }
+      },
+      {
+        "name": "Border/Primary",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 50",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.8392156958580017,
+                "g": 0.9098039269447327,
+                "b": 0.9411764740943909,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.8392156958580017,
+                "g": 0.9098039269447327,
+                "b": 0.9411764740943909,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:ca3db5681001eccf9c64a4578279c52f067311b9/682:278"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:0390ab911955ea7f24a247f46c203ceea2436002/684:47"
+        }
+      },
+      {
+        "name": "Border/Primary (p-50)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 50",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.8392156958580017,
+                "g": 0.9098039269447327,
+                "b": 0.9411764740943909,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.8392156958580017,
+                "g": 0.9098039269447327,
+                "b": 0.9411764740943909,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:ca3db5681001eccf9c64a4578279c52f067311b9/682:278"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:0390ab911955ea7f24a247f46c203ceea2436002/792:25"
+        }
+      },
+      {
+        "name": "Border/Primary",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 50",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.8470588326454163,
+                "g": 0.886274516582489,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:ca3db5681001eccf9c64a4578279c52f067311b9/309:83"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:0390ab911955ea7f24a247f46c203ceea2436002/309:311"
+        }
+      },
+      {
+        "name": "Border/Secondary (s-150)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 50 (150)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.8274509906768799,
+                "g": 0.9098039269447327,
+                "b": 0.8823529481887817,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:ad52361f27898bc5e9386ae56ddb976476d252c4/1123:11"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:2f5b98b1d79996f773423ecc934f0f1ae70f61d0/1123:9"
+        }
+      },
+      {
+        "name": "Border/Secondary",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 50",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.8274509906768799,
+                "g": 0.9098039269447327,
+                "b": 0.8823529481887817,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:ad52361f27898bc5e9386ae56ddb976476d252c4/479:67"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:2f5b98b1d79996f773423ecc934f0f1ae70f61d0/479:71"
+        }
+      },
+      {
+        "name": "Border/Secondary (s-150)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 50 (150)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.8274509906768799,
+                "g": 0.9098039269447327,
+                "b": 0.8823529481887817,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:ad52361f27898bc5e9386ae56ddb976476d252c4/926:108"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:2f5b98b1d79996f773423ecc934f0f1ae70f61d0/926:103"
+        }
+      },
+      {
+        "name": "Border/Neutral",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 50",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9019607901573181,
+                "g": 0.9019607901573181,
+                "b": 0.9019607901573181,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:77cf88091f34b2d7e136fecbf475d8439a637c1f/479:56"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:5949d87a3fedb557691197dfd65a29010180acaf/479:83"
+        }
+      },
+      {
+        "name": "Border/Neutral (n-20)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 50 (20)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.8392156958580017,
+                "g": 0.8392156958580017,
+                "b": 0.8392156958580017,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:77cf88091f34b2d7e136fecbf475d8439a637c1f/926:95"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:5949d87a3fedb557691197dfd65a29010180acaf/926:111"
+        }
+      },
+      {
+        "name": "Border/Neutral (n-20)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 20",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.8392156958580017,
+                "g": 0.8392156958580017,
+                "b": 0.8392156958580017,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.9019607901573181,
+                "g": 0.9019607901573181,
+                "b": 0.9019607901573181,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:77cf88091f34b2d7e136fecbf475d8439a637c1f/682:376"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:5949d87a3fedb557691197dfd65a29010180acaf/792:27"
+        }
+      },
+      {
+        "name": "Border/Success",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Success/Success 50 (x)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.7607843279838562,
+                "g": 0.8705882430076599,
+                "b": 0.6392157077789307,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:922cdadfcc86a9905ff5c4d5e5d7ac913268bd15/926:147"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:b966aa8f123e76e688ce794cfa3d1af694cce9b1/926:65"
+        }
+      },
+      {
+        "name": "Border/Warning (w-50)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Warning/Warning 50",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 1,
+                "g": 0.9019607901573181,
+                "b": 0.6431372761726379,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:55371b6e864b67abee9a80ed571a0498bef76beb/926:92"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:f5e0845813ded0294bc49a66988b9d3b4544821c/926:91"
+        }
+      },
+      {
+        "name": "Border/Warning",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Warning/Warning 50",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 1,
+                "g": 0.9019607901573181,
+                "b": 0.6431372761726379,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:55371b6e864b67abee9a80ed571a0498bef76beb/479:28"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:f5e0845813ded0294bc49a66988b9d3b4544821c/479:29"
+        }
+      },
+      {
+        "name": "Border/Error (e-50)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 50",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 1,
+                "g": 0.7607843279838562,
+                "b": 0.7529411911964417,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:c2d64bd97247e1360ca8eebac24dd1b8a5b4a723/926:152"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:8386f3f766274943006dc776c7010f6af7a8c72b/926:151"
+        }
+      },
+      {
+        "name": "Border/Error",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 50",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 1,
+                "g": 0.7607843279838562,
+                "b": 0.7529411911964417,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:c2d64bd97247e1360ca8eebac24dd1b8a5b4a723/479:113"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:8386f3f766274943006dc776c7010f6af7a8c72b/479:114"
+        }
+      },
+      {
+        "name": "Surface/White",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "White",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:bd87f03cbaf116e1cd33a9bbfe078cb6a4d671ac/309:351"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:bd7cc85ed5822ba932aa1e19f99b313684a9adc9/309:497"
+        }
+      },
+      {
+        "name": "Surface/White",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "White",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:bd87f03cbaf116e1cd33a9bbfe078cb6a4d671ac/926:39"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:bd7cc85ed5822ba932aa1e19f99b313684a9adc9/926:53"
+        }
+      },
+      {
+        "name": "Surface/White",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "White",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              },
+              "682:0": {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:bd87f03cbaf116e1cd33a9bbfe078cb6a4d671ac/682:179"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:bd7cc85ed5822ba932aa1e19f99b313684a9adc9/684:122"
+        }
+      },
+      {
+        "name": "Surface/Primary (p-10)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 10",
+            "description": "test color",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9725490212440491,
+                "g": 0.9843137264251709,
+                "b": 0.9882352948188782,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.9725490212440491,
+                "g": 0.9843137264251709,
+                "b": 0.9882352948188782,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:9f8ea6769d4eb4e514ce0c8d8ae8e5297b10522f/790:12"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:2f808ebc946825d176f9b29ea2a5801268281da5/792:30"
+        }
+      },
+      {
+        "name": "Surface/Primary",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 10",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9607843160629272,
+                "g": 0.9647058844566345,
+                "b": 0.9843137264251709,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:9f8ea6769d4eb4e514ce0c8d8ae8e5297b10522f/479:45"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:2f808ebc946825d176f9b29ea2a5801268281da5/479:60"
+        }
+      },
+      {
+        "name": "Surface/Primary (p-10)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 10",
+            "description": "test color",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9725490212440491,
+                "g": 0.9843137264251709,
+                "b": 0.9882352948188782,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:9f8ea6769d4eb4e514ce0c8d8ae8e5297b10522f/926:61"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:2f808ebc946825d176f9b29ea2a5801268281da5/926:96"
+        }
+      },
+      {
+        "name": "Surface/Primary alternate",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 20",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9176470637321472,
+                "g": 0.929411768913269,
+                "b": 0.9686274528503418,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:d44296d125ddd64eabf8c5575b5012f47914ce36/479:47"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ee6a152cbe7d5b1ad6a24041eb80749a7be09da9/479:3"
+        }
+      },
+      {
+        "name": "Surface/Primary alternate (p-25)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 20 (25)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9176470637321472,
+                "g": 0.9254902005195618,
+                "b": 0.9450980424880981,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:d44296d125ddd64eabf8c5575b5012f47914ce36/926:83"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ee6a152cbe7d5b1ad6a24041eb80749a7be09da9/926:67"
+        }
+      },
+      {
+        "name": "Surface/Secondary (s-10)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 10",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9843137264251709,
+                "g": 0.9921568632125854,
+                "b": 0.9882352948188782,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.9843137264251709,
+                "g": 0.9921568632125854,
+                "b": 0.9882352948188782,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:5494d704886e1f2c5a722a8a23ea492a83bf46ed/682:304"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:7c014064ebd36c6611a072da27d2cba530451ac7/792:32"
+        }
+      },
+      {
+        "name": "Surface/Secondary (s-10)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 10",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9843137264251709,
+                "g": 0.9921568632125854,
+                "b": 0.9882352948188782,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:5494d704886e1f2c5a722a8a23ea492a83bf46ed/926:118"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:7c014064ebd36c6611a072da27d2cba530451ac7/926:115"
+        }
+      },
+      {
+        "name": "Surface/Secondary",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 10",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9843137264251709,
+                "g": 0.9921568632125854,
+                "b": 0.9882352948188782,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:5494d704886e1f2c5a722a8a23ea492a83bf46ed/479:129"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:7c014064ebd36c6611a072da27d2cba530451ac7/479:103"
+        }
+      },
+      {
+        "name": "Surface/Secondary alternate",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 20",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9607843160629272,
+                "g": 0.9803921580314636,
+                "b": 0.9764705896377563,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.9607843160629272,
+                "g": 0.9803921580314636,
+                "b": 0.9764705896377563,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:187816fd6ca6b4d5d65db8b411b927904b941b21/682:282"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:89dc5745f61b210c9a62f56375b4595021580927/684:54"
+        }
+      },
+      {
+        "name": "Surface/Secondary alternate",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 20",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9607843160629272,
+                "g": 0.9803921580314636,
+                "b": 0.9764705896377563,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:187816fd6ca6b4d5d65db8b411b927904b941b21/479:105"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:89dc5745f61b210c9a62f56375b4595021580927/479:81"
+        }
+      },
+      {
+        "name": "Surface/Secondary alternate (s-20)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 20",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9607843160629272,
+                "g": 0.9803921580314636,
+                "b": 0.9764705896377563,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:187816fd6ca6b4d5d65db8b411b927904b941b21/926:113"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:89dc5745f61b210c9a62f56375b4595021580927/926:105"
+        }
+      },
+      {
+        "name": "Surface/Secondary alternate (s-20)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 20",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9607843160629272,
+                "g": 0.9803921580314636,
+                "b": 0.9764705896377563,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.9607843160629272,
+                "g": 0.9803921580314636,
+                "b": 0.9764705896377563,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:187816fd6ca6b4d5d65db8b411b927904b941b21/682:282"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:89dc5745f61b210c9a62f56375b4595021580927/792:33"
+        }
+      },
+      {
+        "name": "Surface/Neutral",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 5",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9686274528503418,
+                "g": 0.9686274528503418,
+                "b": 0.9686274528503418,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.9843137264251709,
+                "g": 0.9843137264251709,
+                "b": 0.9843137264251709,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:c98e12501627db78b842e164cd8b947ae216c1c6/684:102"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:681fcced32adb3f280e581169a8092de6962583f/684:123"
+        }
+      },
+      {
+        "name": "Surface/Neutral (n-5)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 10 (5)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9686274528503418,
+                "g": 0.9686274528503418,
+                "b": 0.9686274528503418,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:c98e12501627db78b842e164cd8b947ae216c1c6/926:80"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:681fcced32adb3f280e581169a8092de6962583f/926:86"
+        }
+      },
+      {
+        "name": "Surface/Neutral (n-5)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 5",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9686274528503418,
+                "g": 0.9686274528503418,
+                "b": 0.9686274528503418,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.9843137264251709,
+                "g": 0.9843137264251709,
+                "b": 0.9843137264251709,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:c98e12501627db78b842e164cd8b947ae216c1c6/684:102"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:681fcced32adb3f280e581169a8092de6962583f/792:34"
+        }
+      },
+      {
+        "name": "Surface/Neutral",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 10",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9843137264251709,
+                "g": 0.9843137264251709,
+                "b": 0.9843137264251709,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:c98e12501627db78b842e164cd8b947ae216c1c6/479:85"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:681fcced32adb3f280e581169a8092de6962583f/479:90"
+        }
+      },
+      {
+        "name": "Surface/Neutral alternate (n-10)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 20 (10)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9411764740943909,
+                "g": 0.9372549057006836,
+                "b": 0.9411764740943909,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:65f547b408691453d0cea544c4fdcd77b84fdea1/926:106"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:d66d355e293f252d0a5bf91f04421f62c0482fa4/926:161"
+        }
+      },
+      {
+        "name": "Surface/Success",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Success/Success 10 (x)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9725490212440491,
+                "g": 0.9843137264251709,
+                "b": 0.95686274766922,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:250a11f19631016e8141fe339b99c9d7dd61d63e/926:73"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:ad086f2060e86db109d556ab61802ad8c07edb3a/926:75"
+        }
+      },
+      {
+        "name": "Surface/Warning (w-10)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Warning/Warning 10",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 1,
+                "g": 0.9882352948188782,
+                "b": 0.9607843160629272,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:f88c254ff03c9d8be88e927018c4e078d0f6537e/926:122"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:92fd0ead1904e699e7e705ab8973c6d21a7dc3ab/926:101"
+        }
+      },
+      {
+        "name": "Surface/Warning",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Warning/Warning 10",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 1,
+                "g": 0.9882352948188782,
+                "b": 0.9607843160629272,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:f88c254ff03c9d8be88e927018c4e078d0f6537e/479:109"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:92fd0ead1904e699e7e705ab8973c6d21a7dc3ab/479:38"
+        }
+      },
+      {
+        "name": "Surface/Error (e-10)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 10",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 1,
+                "g": 0.9686274528503418,
+                "b": 0.95686274766922,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.9960784316062927,
+                "g": 0.9607843160629272,
+                "b": 0.9607843160629272,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:23d457cb45d5ccd4fd5204a74f535d3abdbf70fd/684:26"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:892a584b4aa53a833d5dfbed9e8088797a542e39/792:37"
+        }
+      },
+      {
+        "name": "Surface/Error (e-10)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 10",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9960784316062927,
+                "g": 0.9607843160629272,
+                "b": 0.9607843160629272,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:23d457cb45d5ccd4fd5204a74f535d3abdbf70fd/926:157"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:892a584b4aa53a833d5dfbed9e8088797a542e39/926:156"
+        }
+      },
+      {
+        "name": "Surface/Error",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 10",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9960784316062927,
+                "g": 0.9607843160629272,
+                "b": 0.9607843160629272,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:23d457cb45d5ccd4fd5204a74f535d3abdbf70fd/479:128"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:892a584b4aa53a833d5dfbed9e8088797a542e39/479:130"
+        }
+      },
+      {
+        "name": "Surface/Primary strong (p-200)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 100 (200)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.4431372582912445,
+                "g": 0.5921568870544434,
+                "b": 0.8196078538894653,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:5575448d58fa7f08e67fc905b9674412fe9bad6a/926:150"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:323684d6fd1b85f7c3796639b4992b42fb52d527/926:146"
+        }
+      },
+      {
+        "name": "Background/Desktop/Default",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 5",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9686274528503418,
+                "g": 0.9686274528503418,
+                "b": 0.9686274528503418,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.9843137264251709,
+                "g": 0.9843137264251709,
+                "b": 0.9843137264251709,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:c98e12501627db78b842e164cd8b947ae216c1c6/684:102"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:abdb1e1d705b26a06e988fef8da5516eb2e08655/684:130"
+        }
+      },
+      {
+        "name": "Background/Desktop/Default (n-5)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 5",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9686274528503418,
+                "g": 0.9686274528503418,
+                "b": 0.9686274528503418,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.9843137264251709,
+                "g": 0.9843137264251709,
+                "b": 0.9843137264251709,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:c98e12501627db78b842e164cd8b947ae216c1c6/684:102"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:abdb1e1d705b26a06e988fef8da5516eb2e08655/792:39"
+        }
+      },
+      {
+        "name": "Background/Desktop/Default (n-5)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 10 (5)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9686274528503418,
+                "g": 0.9686274528503418,
+                "b": 0.9686274528503418,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:c98e12501627db78b842e164cd8b947ae216c1c6/926:80"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:abdb1e1d705b26a06e988fef8da5516eb2e08655/926:117"
+        }
+      },
+      {
+        "name": "Background/Desktop/Default",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 20",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.95686274766922,
+                "g": 0.95686274766922,
+                "b": 0.95686274766922,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:65f547b408691453d0cea544c4fdcd77b84fdea1/309:146"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:abdb1e1d705b26a06e988fef8da5516eb2e08655/309:327"
+        }
+      },
+      {
+        "name": "Background/Desktop/Default",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 20",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.95686274766922,
+                "g": 0.95686274766922,
+                "b": 0.95686274766922,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:65f547b408691453d0cea544c4fdcd77b84fdea1/479:68"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:abdb1e1d705b26a06e988fef8da5516eb2e08655/479:120"
+        }
+      },
+      {
+        "name": "Background/Desktop/Sidebar (p-10)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 10",
+            "description": "test color",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9725490212440491,
+                "g": 0.9843137264251709,
+                "b": 0.9882352948188782,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:9f8ea6769d4eb4e514ce0c8d8ae8e5297b10522f/926:61"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:68f4a0557c97fd2f89bbdd89ffc9c52e9c026865/926:97"
+        }
+      },
+      {
+        "name": "Background/Desktop/Dark (p-600)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 500 (600)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.10980392247438431,
+                "g": 0.01568627543747425,
+                "b": 0.32549020648002625,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:4b1b9304bf4af58c83501a82f25ae4035e3c1c35/926:129"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:742953751f36bdd1648036d75580adb2b7129841/926:127"
+        }
+      },
+      {
+        "name": "Background/Desktop/Dark",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 600",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.08627451211214066,
+                "g": 0.07450980693101883,
+                "b": 0.14901961386203766,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:4d20d6e3ab9502769de106a10f23c4a7a3745366/309:89"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:742953751f36bdd1648036d75580adb2b7129841/309:329"
+        }
+      },
+      {
+        "name": "Background/Mobile/Strong (p-300)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 300",
+            "description": "primary-300",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.18039216101169586,
+                "g": 0.3019607961177826,
+                "b": 0.6980392336845398,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:b97441f60a23ee2ebe0356af98847c9be464809b/926:134"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:27f7b0755b3ae13e618490a17d9af7e2c61ab7b0/926:132"
+        }
+      },
+      {
+        "name": "Content/Text/Text (n-90)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 90",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.08235294371843338,
+                "g": 0.09803921729326248,
+                "b": 0.09019608050584793,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.1764705926179886,
+                "g": 0.1764705926179886,
+                "b": 0.1764705926179886,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:c6decb45ccfe7d908e4ad5870ca8f534171405b5/684:9"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:9c198d732010d24c244249200c7db818a041b1d7/792:47"
+        }
+      },
+      {
+        "name": "Content/Placeholder/Placeholder",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 90",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.08235294371843338,
+                "g": 0.09803921729326248,
+                "b": 0.09019608050584793,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.1764705926179886,
+                "g": 0.1764705926179886,
+                "b": 0.1764705926179886,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:c6decb45ccfe7d908e4ad5870ca8f534171405b5/684:9"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:e7baf592989d2d327d036b15d3e435fa2010867e/684:64"
+        }
+      },
+      {
+        "name": "Content/Placeholder/Placeholder (n-90)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 600 (90)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.08235294371843338,
+                "g": 0.09803921729326248,
+                "b": 0.09019608050584793,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:c6decb45ccfe7d908e4ad5870ca8f534171405b5/926:76"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:e7baf592989d2d327d036b15d3e435fa2010867e/926:74"
+        }
+      },
+      {
+        "name": "Content/Text/Text (n-90)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 600 (90)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.08235294371843338,
+                "g": 0.09803921729326248,
+                "b": 0.09019608050584793,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:c6decb45ccfe7d908e4ad5870ca8f534171405b5/926:76"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:9c198d732010d24c244249200c7db818a041b1d7/926:71"
+        }
+      },
+      {
+        "name": "Content/Placeholder/Placeholder (n-90)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 90",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.08235294371843338,
+                "g": 0.09803921729326248,
+                "b": 0.09019608050584793,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.1764705926179886,
+                "g": 0.1764705926179886,
+                "b": 0.1764705926179886,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:c6decb45ccfe7d908e4ad5870ca8f534171405b5/684:9"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:e7baf592989d2d327d036b15d3e435fa2010867e/792:44"
+        }
+      },
+      {
+        "name": "Content/Text/Text-on-fill (white)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "White",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:bd87f03cbaf116e1cd33a9bbfe078cb6a4d671ac/926:39"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:fbea202dd19e5104d24585d714652d85a167a1a3/926:58"
+        }
+      },
+      {
+        "name": "Content/Text/Text-on-fill",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "White",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:bd87f03cbaf116e1cd33a9bbfe078cb6a4d671ac/479:0"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:fbea202dd19e5104d24585d714652d85a167a1a3/479:1"
+        }
+      },
+      {
+        "name": "Content/Text/Text-on-fill",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "White",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:bd87f03cbaf116e1cd33a9bbfe078cb6a4d671ac/309:351"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:fbea202dd19e5104d24585d714652d85a167a1a3/309:352"
+        }
+      },
+      {
+        "name": "Content/Text/Primary (p-400)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 400",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0,
+                "g": 0.0470588244497776,
+                "b": 0.5607843399047852,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:b71dd629ebd3596d723bdb340be95c8477d42bee/926:69"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:c5af01fb3ad7160ec2cdc23a1d5f369cf1f73880/926:131"
+        }
+      },
+      {
+        "name": "Content/Text/Primary",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 400",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0,
+                "g": 0.0470588244497776,
+                "b": 0.5607843399047852,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0,
+                "g": 0.0470588244497776,
+                "b": 0.5607843399047852,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:b71dd629ebd3596d723bdb340be95c8477d42bee/682:269"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:c5af01fb3ad7160ec2cdc23a1d5f369cf1f73880/684:69"
+        }
+      },
+      {
+        "name": "Content/Text/Primary (p-400)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 400",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0,
+                "g": 0.0470588244497776,
+                "b": 0.5607843399047852,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0,
+                "g": 0.0470588244497776,
+                "b": 0.5607843399047852,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:b71dd629ebd3596d723bdb340be95c8477d42bee/682:269"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:c5af01fb3ad7160ec2cdc23a1d5f369cf1f73880/792:48"
+        }
+      },
+      {
+        "name": "Content/Text/Primary",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 400",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0,
+                "g": 0.0470588244497776,
+                "b": 0.5607843399047852,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:b71dd629ebd3596d723bdb340be95c8477d42bee/479:92"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:c5af01fb3ad7160ec2cdc23a1d5f369cf1f73880/479:88"
+        }
+      },
+      {
+        "name": "Content/Text/Secondary (s-1150)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 1150",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.14509804546833038,
+                "g": 0.35686275362968445,
+                "b": 0.30588236451148987,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.14509804546833038,
+                "g": 0.35686275362968445,
+                "b": 0.30588236451148987,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:6b5ee95f23376afb6a8cf8623380622788347541/792:80"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:108032ed88bec60480068f74f85b5c32428cae87/792:82"
+        }
+      },
+      {
+        "name": "Content/Text/Secondary",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 500",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.10196078568696976,
+                "g": 0.3960784375667572,
+                "b": 0.3176470696926117,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:a12d63a7df76282e726e502a1d3e81db11a53704/479:106"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:108032ed88bec60480068f74f85b5c32428cae87/479:119"
+        }
+      },
+      {
+        "name": "Content/Text/Secondary (s-1150)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 600 (1150)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0,
+                "g": 0.38823530077934265,
+                "b": 0.25882354378700256,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:6b5ee95f23376afb6a8cf8623380622788347541/1123:30"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:108032ed88bec60480068f74f85b5c32428cae87/1123:29"
+        }
+      },
+      {
+        "name": "Content/Text/Secondary",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 500",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.10196078568696976,
+                "g": 0.3960784375667572,
+                "b": 0.3176470696926117,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:a12d63a7df76282e726e502a1d3e81db11a53704/309:125"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:108032ed88bec60480068f74f85b5c32428cae87/309:359"
+        }
+      },
+      {
+        "name": "Content/Text/Secondary (s-1150)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 600 (1150)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0,
+                "g": 0.38823530077934265,
+                "b": 0.25882354378700256,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:6b5ee95f23376afb6a8cf8623380622788347541/948:25"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:108032ed88bec60480068f74f85b5c32428cae87/948:24"
+        }
+      },
+      {
+        "name": "Content/Text/Neutral (n-70)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 400 (70)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.29019609093666077,
+                "g": 0.29019609093666077,
+                "b": 0.29019609093666077,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:e749215015e75cbe2caeede0d7a15a3d0a262b3f/926:88"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:7d95b9a19fd94fb948ca7b1a5ad8ca0634d6bb31/926:44"
+        }
+      },
+      {
+        "name": "Content/Text/Neutral (n-70)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 70",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.29019609093666077,
+                "g": 0.29019609093666077,
+                "b": 0.29019609093666077,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.29019609093666077,
+                "g": 0.29019609093666077,
+                "b": 0.29019609093666077,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:e749215015e75cbe2caeede0d7a15a3d0a262b3f/682:347"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:7d95b9a19fd94fb948ca7b1a5ad8ca0634d6bb31/792:50"
+        }
+      },
+      {
+        "name": "Content/Text/Neutral",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 70",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.29019609093666077,
+                "g": 0.29019609093666077,
+                "b": 0.29019609093666077,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.29019609093666077,
+                "g": 0.29019609093666077,
+                "b": 0.29019609093666077,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:e749215015e75cbe2caeede0d7a15a3d0a262b3f/682:347"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:7d95b9a19fd94fb948ca7b1a5ad8ca0634d6bb31/684:71"
+        }
+      },
+      {
+        "name": "Content/Text/Neutral",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 400",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.29019609093666077,
+                "g": 0.29019609093666077,
+                "b": 0.29019609093666077,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:e749215015e75cbe2caeede0d7a15a3d0a262b3f/479:51"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:7d95b9a19fd94fb948ca7b1a5ad8ca0634d6bb31/479:121"
+        }
+      },
+      {
+        "name": "Content/Text/Error (e-850)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 400 (850)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.529411792755127,
+                "g": 0.007843137718737125,
+                "b": 0,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:d6d31b27f509d506a915f99c717038366207e7ef/926:45"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:800a0fc4b9fad58ba9f4e5e296b8bb269f6e6044/1105:0"
+        }
+      },
+      {
+        "name": "Content/Placeholder/Value (p-200)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 200",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.4431372582912445,
+                "g": 0.5921568870544434,
+                "b": 0.8196078538894653,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.4431372582912445,
+                "g": 0.5921568870544434,
+                "b": 0.8196078538894653,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:5575448d58fa7f08e67fc905b9674412fe9bad6a/682:295"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:20da17198060389d98b9f6efea07b816b8bd61f9/792:45"
+        }
+      },
+      {
+        "name": "Content/Placeholder/Value (p-200)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 100 (200)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.4431372582912445,
+                "g": 0.5921568870544434,
+                "b": 0.8196078538894653,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:5575448d58fa7f08e67fc905b9674412fe9bad6a/926:150"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:20da17198060389d98b9f6efea07b816b8bd61f9/926:148"
+        }
+      },
+      {
+        "name": "Content/Placeholder/Value",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 200",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.4431372582912445,
+                "g": 0.5921568870544434,
+                "b": 0.8196078538894653,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.4431372582912445,
+                "g": 0.5921568870544434,
+                "b": 0.8196078538894653,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:5575448d58fa7f08e67fc905b9674412fe9bad6a/682:295"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:20da17198060389d98b9f6efea07b816b8bd61f9/684:65"
+        }
+      },
+      {
+        "name": "Content/Text/Error (e-900)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 900",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.6000000238418579,
+                "g": 0.03921568766236305,
+                "b": 0,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.32549020648002625,
+                "g": 0.08235294371843338,
+                "b": 0.0784313753247261,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:0e0eff006ca1ab628a49bdb7857d55270fa41e78/682:423"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:800a0fc4b9fad58ba9f4e5e296b8bb269f6e6044/792:51"
+        }
+      },
+      {
+        "name": "Content/Text/Error",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 400",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.529411792755127,
+                "g": 0.007843137718737125,
+                "b": 0,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:d6d31b27f509d506a915f99c717038366207e7ef/479:14"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:800a0fc4b9fad58ba9f4e5e296b8bb269f6e6044/479:15"
+        }
+      },
+      {
+        "name": "Content/Text/Error (e-900)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 400 (850)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.529411792755127,
+                "g": 0.007843137718737125,
+                "b": 0,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:d6d31b27f509d506a915f99c717038366207e7ef/926:45"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:800a0fc4b9fad58ba9f4e5e296b8bb269f6e6044/948:36"
+        }
+      },
+      {
+        "name": "Content/Text/Warning (w-400)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Warning/Warning 400",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.5843137502670288,
+                "g": 0.3960784375667572,
+                "b": 0.08627451211214066,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:3582f3207744760bafc3d2319e532f129f4873f7/926:48"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:6e9b111306f97af3d9457250e5019c77cd903063/926:41"
+        }
+      },
+      {
+        "name": "Content/Text/Warning",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Warning/Warning 400",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.5843137502670288,
+                "g": 0.3960784375667572,
+                "b": 0.08627451211214066,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:3582f3207744760bafc3d2319e532f129f4873f7/479:8"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:6e9b111306f97af3d9457250e5019c77cd903063/479:9"
+        }
+      },
+      {
+        "name": "Content/Placeholder/Value-active",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 300",
+            "description": "primary-300",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.18039216101169586,
+                "g": 0.3019607961177826,
+                "b": 0.6980392336845398,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.18039216101169586,
+                "g": 0.3019607961177826,
+                "b": 0.6980392336845398,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:b97441f60a23ee2ebe0356af98847c9be464809b/790:30"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:9355e31bfaac6c7b84c24d8f8c05c9ef8a62be41/790:29"
+        }
+      },
+      {
+        "name": "Content/Placeholder/Value-active (p-300)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 300",
+            "description": "primary-300",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.18039216101169586,
+                "g": 0.3019607961177826,
+                "b": 0.6980392336845398,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.18039216101169586,
+                "g": 0.3019607961177826,
+                "b": 0.6980392336845398,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:b97441f60a23ee2ebe0356af98847c9be464809b/790:30"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:9355e31bfaac6c7b84c24d8f8c05c9ef8a62be41/792:46"
+        }
+      },
+      {
+        "name": "Content/Placeholder/Value-active (p-300)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 300",
+            "description": "primary-300",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.18039216101169586,
+                "g": 0.3019607961177826,
+                "b": 0.6980392336845398,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:b97441f60a23ee2ebe0356af98847c9be464809b/926:134"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:9355e31bfaac6c7b84c24d8f8c05c9ef8a62be41/926:142"
+        }
+      },
+      {
+        "name": "Content/Text/Success (sc-600)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Success/Success 400 (600)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.3019607961177826,
+                "g": 0.6000000238418579,
+                "b": 0,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:2315f712b78c3791541c952b2ab912ee077e7615/926:51"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:aa599e49244e399bf9afb6a5083e3bdf3c198366/926:109"
+        }
+      },
+      {
+        "name": "Content/Placeholder/Value-active",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 300",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.18039216101169586,
+                "g": 0.3019607961177826,
+                "b": 0.6980392336845398,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.18039216101169586,
+                "g": 0.3019607961177826,
+                "b": 0.6980392336845398,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:b97441f60a23ee2ebe0356af98847c9be464809b/682:272"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:9355e31bfaac6c7b84c24d8f8c05c9ef8a62be41/684:66"
+        }
+      },
+      {
+        "name": "Content/Label/Label (n-45)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 200 (45)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.5607843399047852,
+                "g": 0.5607843399047852,
+                "b": 0.5607843399047852,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:9cd3b4f2ae77199e13b733ebaa4fdc629ec657f8/926:114"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:315abe5a8fa5e46ebdb8a0d00a3f699f177bd733/926:93"
+        }
+      },
+      {
+        "name": "Content/Label/Label",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 200",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.5607843399047852,
+                "g": 0.5607843399047852,
+                "b": 0.5607843399047852,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:9cd3b4f2ae77199e13b733ebaa4fdc629ec657f8/479:32"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:315abe5a8fa5e46ebdb8a0d00a3f699f177bd733/479:59"
+        }
+      },
+      {
+        "name": "Content/Label/Label (n-45)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 45",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.5607843399047852,
+                "g": 0.5607843399047852,
+                "b": 0.5607843399047852,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.5607843399047852,
+                "g": 0.5607843399047852,
+                "b": 0.5607843399047852,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:9cd3b4f2ae77199e13b733ebaa4fdc629ec657f8/682:360"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:315abe5a8fa5e46ebdb8a0d00a3f699f177bd733/792:54"
+        }
+      },
+      {
+        "name": "Content/Label/Value",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 300",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.4000000059604645,
+                "g": 0.4000000059604645,
+                "b": 0.4000000059604645,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:0ac416a1f0f3ac28ca7f705a4102debd6624702d/479:55"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:47425b36416f5a1bcfce2a48be9fa90c605f8972/479:127"
+        }
+      },
+      {
+        "name": "Content/Label/Value (n-60)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 60",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.4000000059604645,
+                "g": 0.4000000059604645,
+                "b": 0.4000000059604645,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.4000000059604645,
+                "g": 0.4000000059604645,
+                "b": 0.4000000059604645,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:0ac416a1f0f3ac28ca7f705a4102debd6624702d/682:356"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:47425b36416f5a1bcfce2a48be9fa90c605f8972/792:55"
+        }
+      },
+      {
+        "name": "Content/Label/Value",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 60",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.4000000059604645,
+                "g": 0.4000000059604645,
+                "b": 0.4000000059604645,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.4000000059604645,
+                "g": 0.4000000059604645,
+                "b": 0.4000000059604645,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:0ac416a1f0f3ac28ca7f705a4102debd6624702d/682:356"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:47425b36416f5a1bcfce2a48be9fa90c605f8972/684:110"
+        }
+      },
+      {
+        "name": "Content/Label/Value (n-60)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 300 (60)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.4000000059604645,
+                "g": 0.4000000059604645,
+                "b": 0.4000000059604645,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:0ac416a1f0f3ac28ca7f705a4102debd6624702d/926:100"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:47425b36416f5a1bcfce2a48be9fa90c605f8972/926:89"
+        }
+      },
+      {
+        "name": "Content/Label/Value-success (sc-500)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Success/Success 300 (500)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.41960784792900085,
+                "g": 0.6823529601097107,
+                "b": 0.11764705926179886,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:ab7da470cdf343070645e55dbc6064262ef1ea60/926:64"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:aafe6bb0da9961ac1a374983d3c203912bfba3ac/926:50"
+        }
+      },
+      {
+        "name": "Content/Label/Value-success",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Sucess/Success 300",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.41960784792900085,
+                "g": 0.6823529601097107,
+                "b": 0.11764705926179886,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:ab7da470cdf343070645e55dbc6064262ef1ea60/479:31"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:aafe6bb0da9961ac1a374983d3c203912bfba3ac/479:73"
+        }
+      },
+      {
+        "name": "Content/Label/Value-error",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 900",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.6000000238418579,
+                "g": 0.03921568766236305,
+                "b": 0,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.32549020648002625,
+                "g": 0.08235294371843338,
+                "b": 0.0784313753247261,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:0e0eff006ca1ab628a49bdb7857d55270fa41e78/682:423"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:0de1e085d1b338895a2a40cc24e474e50de29742/684:153"
+        }
+      },
+      {
+        "name": "Content/Label/Value-error",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 300",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.658823549747467,
+                "g": 0.0313725508749485,
+                "b": 0,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:e73f8afa1fe8cacfb803211399aefc30bb399be5/479:19"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:0de1e085d1b338895a2a40cc24e474e50de29742/479:20"
+        }
+      },
+      {
+        "name": "Content/Label/Value-error (e-900)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 400 (850)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.529411792755127,
+                "g": 0.007843137718737125,
+                "b": 0,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:d6d31b27f509d506a915f99c717038366207e7ef/926:45"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:0de1e085d1b338895a2a40cc24e474e50de29742/948:37"
+        }
+      },
+      {
+        "name": "Content/Label/Value-error (e-900)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 900",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.6000000238418579,
+                "g": 0.03921568766236305,
+                "b": 0,
+                "a": 1
+              },
+              "682:0": {
+                "r": 0.32549020648002625,
+                "g": 0.08235294371843338,
+                "b": 0.0784313753247261,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:0e0eff006ca1ab628a49bdb7857d55270fa41e78/682:423"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:0de1e085d1b338895a2a40cc24e474e50de29742/792:58"
+        }
+      },
+      {
+        "name": "Content/Navigation/Nav (p-200)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 100 (200)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.4431372582912445,
+                "g": 0.5921568870544434,
+                "b": 0.8196078538894653,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:5575448d58fa7f08e67fc905b9674412fe9bad6a/926:150"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:e94fbb443372a672b781bb6e610e99d97a789bf2/926:144"
+        }
+      },
+      {
+        "name": "Content/Navigation/Nav active (p-300)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 300",
+            "description": "primary-300",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.18039216101169586,
+                "g": 0.3019607961177826,
+                "b": 0.6980392336845398,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:b97441f60a23ee2ebe0356af98847c9be464809b/926:134"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:65fa09f13095458d50b8939ff1b111fa99d87c50/926:136"
+        }
+      },
+      {
+        "name": "Fill/Primary (p-300)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 300",
+            "description": "primary-300",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.18039216101169586,
+                "g": 0.3019607961177826,
+                "b": 0.6980392336845398,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:b97441f60a23ee2ebe0356af98847c9be464809b/926:134"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:6202e2551acb26da23765ed8d43a862033997882/926:138"
+        }
+      },
+      {
+        "name": "Fill/Primary-alternate",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 50",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.8470588326454163,
+                "g": 0.886274516582489,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:ca3db5681001eccf9c64a4578279c52f067311b9/309:83"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:48a261172c8306094cb05ab9bea622c42c8c5e1e/309:417"
+        }
+      },
+      {
+        "name": "Fill/Primary-alternate (p-50)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 50",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.8392156958580017,
+                "g": 0.9098039269447327,
+                "b": 0.9411764740943909,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:ca3db5681001eccf9c64a4578279c52f067311b9/926:55"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:48a261172c8306094cb05ab9bea622c42c8c5e1e/926:70"
+        }
+      },
+      {
+        "name": "Fill/Primary-alternate",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Primary/Primary 50",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.8470588326454163,
+                "g": 0.886274516582489,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:ca3db5681001eccf9c64a4578279c52f067311b9/479:101"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:48a261172c8306094cb05ab9bea622c42c8c5e1e/479:64"
+        }
+      },
+      {
+        "name": "Fill/Secondary (s-1050)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 500 (1100)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0,
+                "g": 0.5137255191802979,
+                "b": 0.3450980484485626,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:a12d63a7df76282e726e502a1d3e81db11a53704/1123:27"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:e8294d53befb65178275db74924e28c76b89fc5d/1123:25"
+        }
+      },
+      {
+        "name": "Fill/Secondary (s-1000)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 500 (1000)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0,
+                "g": 0.5137255191802979,
+                "b": 0.3450980484485626,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:a12d63a7df76282e726e502a1d3e81db11a53704/948:22"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:e8294d53befb65178275db74924e28c76b89fc5d/948:20"
+        }
+      },
+      {
+        "name": "Fill/Secondary-alternate (s-150)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 50 (150)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.8274509906768799,
+                "g": 0.9098039269447327,
+                "b": 0.8823529481887817,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:ad52361f27898bc5e9386ae56ddb976476d252c4/1123:11"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:490ba138df186ea979f331238045b9c44ce237e4/1123:10"
+        }
+      },
+      {
+        "name": "Fill/Secondary-alternate",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 50",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.8274509906768799,
+                "g": 0.9098039269447327,
+                "b": 0.8823529481887817,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:ad52361f27898bc5e9386ae56ddb976476d252c4/309:120"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:490ba138df186ea979f331238045b9c44ce237e4/309:419"
+        }
+      },
+      {
+        "name": "Fill/Secondary-alternate",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 50",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.8274509906768799,
+                "g": 0.9098039269447327,
+                "b": 0.8823529481887817,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:ad52361f27898bc5e9386ae56ddb976476d252c4/479:67"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:490ba138df186ea979f331238045b9c44ce237e4/479:69"
+        }
+      },
+      {
+        "name": "Fill/Secondary-alternate (s-150)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 50 (150)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.8274509906768799,
+                "g": 0.9098039269447327,
+                "b": 0.8823529481887817,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:ad52361f27898bc5e9386ae56ddb976476d252c4/926:108"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:490ba138df186ea979f331238045b9c44ce237e4/926:124"
+        }
+      },
+      {
+        "name": "Fill/Neutral (n-60)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 300 (60)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.4000000059604645,
+                "g": 0.4000000059604645,
+                "b": 0.4000000059604645,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:0ac416a1f0f3ac28ca7f705a4102debd6624702d/926:100"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:7887a5e8c9036158c7ed22063b1bdbbf2e17e742/926:133"
+        }
+      },
+      {
+        "name": "Fill/Neutral-alternate",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 50",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9019607901573181,
+                "g": 0.9019607901573181,
+                "b": 0.9019607901573181,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:77cf88091f34b2d7e136fecbf475d8439a637c1f/309:147"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:32e22967d9b9884e32715d569c6fc0f0577f99c5/309:421"
+        }
+      },
+      {
+        "name": "Fill/Neutral-alternate",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 20",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.95686274766922,
+                "g": 0.95686274766922,
+                "b": 0.95686274766922,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:65f547b408691453d0cea544c4fdcd77b84fdea1/479:68"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:32e22967d9b9884e32715d569c6fc0f0577f99c5/552:0"
+        }
+      },
+      {
+        "name": "Fill/Neutral-alternate (n-10)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Neutral/Neutral 20 (10)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9411764740943909,
+                "g": 0.9372549057006836,
+                "b": 0.9411764740943909,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:65f547b408691453d0cea544c4fdcd77b84fdea1/926:106"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:32e22967d9b9884e32715d569c6fc0f0577f99c5/950:42"
+        }
+      },
+      {
+        "name": "Fill/Success (sc-500)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Success/Success 300 (500)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.41960784792900085,
+                "g": 0.6823529601097107,
+                "b": 0.11764705926179886,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:ab7da470cdf343070645e55dbc6064262ef1ea60/926:64"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:62dc4dfe4399bc678ae728b3e43b832c311d2b95/926:128"
+        }
+      },
+      {
+        "name": "Fill/Success-alternate",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Success/Success 50 (x)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.7607843279838562,
+                "g": 0.8705882430076599,
+                "b": 0.6392157077789307,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:922cdadfcc86a9905ff5c4d5e5d7ac913268bd15/926:147"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:0ceb1bb3648c81a1c5303770c63d4acd7d1c3fbd/926:107"
+        }
+      },
+      {
+        "name": "Fill/Warning (w-300)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Warning/Warning 300",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 1,
+                "g": 0.6901960968971252,
+                "b": 0,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:a8467887f6d48c41fa03f3143f76ce4e8dc2beb3/926:60"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:8d8edf736c79f3afd422c8ed3a6543ec30dc7c78/926:120"
+        }
+      },
+      {
+        "name": "Fill/Warning-alternate (w-20)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Warning/Warning 20",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 1,
+                "g": 0.9607843160629272,
+                "b": 0.8705882430076599,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:275f7f8694d2367a434611c7379c11fef546d88b/926:56"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:89c1abe569677914fbd1654586f58d3d19a24cd1/926:162"
+        }
+      },
+      {
+        "name": "Fill/Error (e-800)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 300 (800)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.658823549747467,
+                "g": 0.0313725508749485,
+                "b": 0,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:e73f8afa1fe8cacfb803211399aefc30bb399be5/926:52"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:45ea828d6f36369321e4f2b07b6e12db6554fdeb/1105:1"
+        }
+      },
+      {
+        "name": "Fill/Error (e-850)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 300 (800)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.658823549747467,
+                "g": 0.0313725508749485,
+                "b": 0,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:e73f8afa1fe8cacfb803211399aefc30bb399be5/926:52"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:45ea828d6f36369321e4f2b07b6e12db6554fdeb/948:38"
+        }
+      },
+      {
+        "name": "Fill/Error-alternate (e-20)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 20",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9882352948188782,
+                "g": 0.886274516582489,
+                "b": 0.8823529481887817,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:be174cb6a3ca3c18762b8c7a126daaf66793c3c7/926:84"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:c0d58f3f443c2e26c35d0c05a6b10323cb86c92b/926:79"
+        }
+      },
+      {
+        "name": "Fill/Error-alternate",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 20",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9882352948188782,
+                "g": 0.886274516582489,
+                "b": 0.8823529481887817,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:be174cb6a3ca3c18762b8c7a126daaf66793c3c7/479:77"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:c0d58f3f443c2e26c35d0c05a6b10323cb86c92b/479:49"
+        }
+      },
+      {
+        "name": "Fill/Error-alternate",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 20",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9882352948188782,
+                "g": 0.886274516582489,
+                "b": 0.8823529481887817,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:be174cb6a3ca3c18762b8c7a126daaf66793c3c7/309:211"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:c0d58f3f443c2e26c35d0c05a6b10323cb86c92b/313:10"
+        }
+      },
+      {
+        "name": "Fill/White",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "White",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:bd87f03cbaf116e1cd33a9bbfe078cb6a4d671ac/926:39"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:5f2fb61f2b16af05609604322cee3d863ddb2dff/926:37"
+        }
+      },
+      {
+        "name": "Fill/White",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "White",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:bd87f03cbaf116e1cd33a9bbfe078cb6a4d671ac/479:0"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:5f2fb61f2b16af05609604322cee3d863ddb2dff/479:2"
+        }
+      },
+      {
+        "name": "Fill/White",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "White",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:bd87f03cbaf116e1cd33a9bbfe078cb6a4d671ac/309:351"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:5f2fb61f2b16af05609604322cee3d863ddb2dff/310:2"
+        }
+      },
+      {
+        "name": "Fill/White",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "White",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              },
+              "682:0": {
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:bd87f03cbaf116e1cd33a9bbfe078cb6a4d671ac/682:179"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:5f2fb61f2b16af05609604322cee3d863ddb2dff/684:93"
+        }
+      },
+      {
+        "name": "Data visualization/Data chart (s-700)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 400 (700)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0,
+                "g": 0.729411780834198,
+                "b": 0.48627451062202454,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:762ba96a77310488e6f5288da244853ca8b9645e/1122:1"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:1ce1ead89fd13fc50ad2a5f6dac03aca4bbca4ec/1123:24"
+        }
+      },
+      {
+        "name": "Data visualization/Data chart alternate (s-150)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Secondary/Secondary 50 (150)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.8274509906768799,
+                "g": 0.9098039269447327,
+                "b": 0.8823529481887817,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:ad52361f27898bc5e9386ae56ddb976476d252c4/1123:11"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:62078f7fa6c6d20daea5d7c199f54a7007102830/1123:8"
+        }
+      },
+      {
+        "name": "Data visualization/Data error (e-400)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 100 (400)",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 1,
+                "g": 0.41960784792900085,
+                "b": 0.4000000059604645,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:204f174fd0c0255606dfd27ad266b0e0beea9b00/926:77"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:9dfe26ba980f5af792c8570db75a4adc8b1ab143/926:46"
+        }
+      },
+      {
+        "name": "Data visualization/Data error alternate (e-20)",
+        "description": "",
+        "resolvedType": "COLOR",
+        "values": {
+          "18:0": {
+            "name": "Error/Error 20",
+            "description": "",
+            "resolvedType": "COLOR",
+            "values": {
+              "309:1": {
+                "r": 0.9882352948188782,
+                "g": 0.886274516582489,
+                "b": 0.8823529481887817,
+                "a": 1
+              }
+            },
+            "zzRaw": {
+              "id": "VariableID:be174cb6a3ca3c18762b8c7a126daaf66793c3c7/926:84"
+            }
+          }
+        },
+        "zzRaw": {
+          "id": "VariableID:63af8c62440c53019a24cf678e8491a2c57bff37/926:81"
+        }
+      }
+    ],
+    "zzRaw": {
+      "id": "VariableCollectionId:600bcdf60f598512fcf59625ec37cd213b9c25e4/309:45"
+    }
+  }
+]

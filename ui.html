@@ -2,46 +2,35 @@
     <div style="padding: 8px">
         <div class="buttons">
             <div class="button">
-                <button onclick="generateHtml()">
-                    Generate html code
+                <button onclick="generateReact(this)">
+                    Generate react code
                 </button>
                 <span class="error" hidden="hidden">Error</span>
             </div>
-            <div class="button">
-                <button onclick="generateReact()">
-                    Generate html code
-                </button>
-                <span class="error" hidden="hidden">Error</span>
-            </div>
-            <button onclick="compareIds()">
-                Compare ids
-            </button>
         </div>
         <pre id="code" class="code" hidden="hidden"></pre>
     </div>
 </div>
 
 <script>
-    const generateHtml = () => {
-        window.parent.postMessage({pluginMessage: 'generate'}, "*")
-    }
     const generateReact = (event) => {
-        event.target.nextSibling.hidden = true;
-        event.target.nextSibling.classList.add('loading');
-        window.parent.postMessage({pluginMessage: 'generate'}, "*")
+        const errorNode = event.parentElement.children[1];
+        errorNode.hidden = true;
+        errorNode.classList.add('loading');
+        window.parent.postMessage({pluginMessage: 'react'}, "*")
     }
-    const compareIds = () => window.parent.postMessage({pluginMessage: 'compare'}, "*")
     onmessage = ({data: {pluginMessage: {type, message}}}) => {
+        const loadingError = document.querySelector('.error.loading');
+        if (loadingError) loadingError.classList.remove('loading');
         if (type === 'error') {
-            const loadingError = [...document.getElementsByClassName('error')].find((node) => node.classList.contains('loading'));
             if (loadingError) {
                 loadingError.hidden = false;
-                loadingError.innerHTML = message;
+                loadingError.innerText = message;
             }
         }
         if (type === 'react') {
             document.getElementById('code').hidden = false;
-            document.getElementById('code').innerHTML = event.data.pluginMessage;
+            document.getElementById('code').innerText = message;
         }
     }
 </script>
@@ -54,6 +43,10 @@
         padding: 7px 8px 8px;
         overflow-y: hidden;
         border-top: 1px solid #444444;
+    }
+
+    .error {
+        color: red;
     }
 
     .buttons, .button {
@@ -81,8 +74,9 @@
     }
 
     .code {
-        width: 100%;
         background: #1f2023;
         color: white;
+        padding: 8px;
+        overflow-x: scroll;
     }
 </style>
